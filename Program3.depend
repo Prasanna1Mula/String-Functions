@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1711169070 source:c:\users\dell\desktop\c programming\program3\main.c
+	<stdio.h>
+	<string.h>
+
+1711170342 source:c:\users\dell\desktop\c programming\program3\program 4.c
+	<stdio.h>
+	<conio.h>
+	<limits.h>
+	<float.h>
+
